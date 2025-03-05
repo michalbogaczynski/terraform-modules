@@ -11,7 +11,7 @@ variable "address_space" {
 variable "location" {
   description = "Location for the resources"
   type        = string
-  default     = "westus"
+  default     = "polandcentral"
 }
 
 variable "resource_group_name" {
